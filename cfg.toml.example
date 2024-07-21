@@ -1,0 +1,6 @@
+[iot_tokuron-dev-rs]
+wifi_ssid =
+wifi_password =
+aws_iot_endpoint =
+aws_iot_client_id =
+aws_iot_topic =
